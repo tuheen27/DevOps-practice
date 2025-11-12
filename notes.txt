@@ -1,0 +1,11 @@
+Open your GitHub account (create one if you don’t have it).
+
+Create a new repository named devops-practice.
+
+On your local system, make a folder (if Git is installed).
+
+If Git is not installed, you can do all steps directly on GitHub’s web interface.
+
+Inside that repo, add a new file named notes.txt.
+
+In that file, write this lin
